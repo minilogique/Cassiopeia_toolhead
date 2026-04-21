@@ -6,7 +6,9 @@ Meet the **Cassiopeia toolhead** — featuring a significantly improved center o
 
 ## ⚠️ **IT IS STILL IN TESTING PHASE!**
 
-Currently tested COM is 2mm front of the rail and 3mm above the rail's centerline with the files and calculations I have access to (tested with WW MK8 CAD). Printed toolhead with assembled WW MK8 without stepper balances below the linear rail centerline.
+Currently tested COM is 2mm front of the rail and 3mm above the rail's centerline with the files and calculations I have access to (tested with WW MK8 CAD). Printed toolhead with assembled WW MK8 without stepper balances below the linear rail centerline. Depending of materials used and printer setup, it might be needed to use a flat file to flatten the surfaces of duct and manifold that go together. Yes, glue or dab of silicone can be used for even better sealing.
+
+![Render](https://github.com/minilogique/Cassiopeia_toolhead/blob/main/photos/filing.JPG)
 
 ![Render](https://github.com/minilogique/Cassiopeia_toolhead/blob/main/renders/2.PNG)
 
