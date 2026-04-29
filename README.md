@@ -18,6 +18,4 @@ Supports from 6mm to 10mm belts, mounts directly to linear rail carts of either 
 
 Supported hotends are Goliath, CHC XL and equivalents.
 
-![Render](https://github.com/minilogique/Cassiopeia_toolhead/blob/main/renders/4.PNG)
-
 More info coming soon.
