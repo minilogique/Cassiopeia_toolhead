@@ -16,6 +16,6 @@ Supports from 6mm to 10mm belts, mounts directly to linear rail carts of either 
 
 ![Render](https://github.com/minilogique/Cassiopeia_toolhead/blob/main/renders/3.PNG)
 
-Supported hotends are Goliath, CHC XL and equivalents.
+Supported hotends are Goliath, CHC XL and equivalents. Tricorn support is in the works.
 
 More info coming soon.
